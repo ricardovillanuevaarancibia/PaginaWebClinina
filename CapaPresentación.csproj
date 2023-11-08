@@ -274,6 +274,7 @@
     <Content Include="img\logo.png" />
     <Content Include="img\medico-de-familia.jpg" />
     <Content Include="img\médica-700x427.jpg" />
+    <Content Include="img\ricardo.jpeg" />
     <Content Include="img\sprite-skin-flat.png" />
     <Content Include="img\sprite-skin-nice.png" />
     <Content Include="img\user-bg.png" />
